@@ -1,4 +1,17 @@
 node_modules/
-pnpm-lock.yaml
-dist
+
+backend/dist
+frontend/build
+
+ /pnpm-lock.yaml
+
 .env
+.env.local
+
+
+*.tsbuildinfo
+
+# Testing
+/coverage
+
+
