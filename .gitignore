@@ -1,10 +1,4 @@
-# Node modules
 node_modules/
 pnpm-lock.yaml
-
-# Build files
-dist/
-build/
-
-# Environment variables
+dist
 .env
